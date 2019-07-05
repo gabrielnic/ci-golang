@@ -1,6 +1,6 @@
 # Base image: https://hub.docker.com/_/golang/
 FROM golang:1.9
-MAINTAINER Julien Andrieux <julien@pantomath.io>
+MAINTAINER Gabriel Nicola <gabriel@hello.com>
 
 # Install golint
 ENV GOPATH /go
